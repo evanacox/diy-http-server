@@ -1,0 +1,17 @@
+##################
+BasedOnStyle: LLVM
+##################
+
+AllowAllArgumentsOnNextLine: false
+AllowAllConstructorInitializersOnNextLine: false
+AllowAllParametersOfDeclarationOnNextLine: false
+AlignOperands: true
+AlignAfterOpenBracket: DontAlign
+BinPackArguments: false
+BinPackParameters: false
+BreakBeforeBinaryOperators: NonAssignment
+BreakConstructorInitializers: BeforeComma
+ColumnLimit: 100
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+IndentCaseLabels: true
+NamespaceIndentation: All
